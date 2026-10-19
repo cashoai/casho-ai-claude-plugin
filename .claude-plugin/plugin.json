@@ -1,0 +1,11 @@
+
+{
+  "name": "casho-ai",
+  "version": "1.0.0",
+  "description": "Claude plugin for Casho AI invoicing and business management workflows",
+  "author": {
+    "name": "Casho AI"
+  },
+  "homepage": "https://casho.ai"
+}
+  
